@@ -141,15 +141,5 @@ credit-default-prediction/
 
 * **Abhinav Singh** – [Your GitHub Profile](https://github.com/yourprofile)
 
----
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you want, I can also generate a **ready-to-use `requirements.txt`** file and a **Streamlit-ready `app.py`** template for your credit default project.
-
-Do you want me to do that?
 
